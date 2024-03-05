@@ -43,7 +43,7 @@ Desenvolvendo uma automação de tarefas utilizando Python.
     - pyautogui.click - clicar em algum lugar da tela
     - pyautogui.write - digitar um texto na tela
     - pyautogui.press - pressionar 1 tecla do teclado
-    - pyautogui.hotkey("ctrl" + "t")
+    - pyautogui.hotkey("ctrl" + "t") - junção de duas teclas(atalho)
 - pip install time
     - sleep(tempo de espera)
 - pip install pandas
