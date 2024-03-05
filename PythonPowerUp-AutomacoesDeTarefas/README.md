@@ -16,6 +16,10 @@ Automações de Tarefas com Python
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Python
+- Git e Github
+
+## 📚 Principais Bibliotecas
+
 - Pyautogui
 - Time
 - Pandas
