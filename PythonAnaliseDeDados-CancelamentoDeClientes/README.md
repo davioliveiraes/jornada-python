@@ -26,4 +26,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desenvolvendo uma análise de dados dos cancelamentos em um exemplo de uma assinatura.
+Desenvolvendo uma análise de dados dos cancelamentos de clientes em um exemplo de uma assinatura.
+
+### Informações
+
+- Passo a passo do projeto
+  - Importando a base dados
+  - Tratamento de dados(removendo informações vazias)
+  - Verificando a taxa de cancelamento
+  - Verificando o cancelamento por contrato
+  - Analisando as informações dos contratos
+  - Removendo o contrato mensal
+  - Análise de Assinaturas
+  - Análise de gráficos
