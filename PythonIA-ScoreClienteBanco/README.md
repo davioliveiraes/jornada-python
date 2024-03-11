@@ -26,4 +26,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desenvolvendo uma inteligência artificial para contabilizar parâmetros de scores de clientes em um banco bancário .
+Desenvolvendo uma inteligência artificial para contabilizar parâmetros de scores de clientes em um banco bancário.
+
+### Informações
+- Passo a passo do projeto:
+  - Importar a base de dados
+  - Verificar informações vazias
+  - Fazer o tratamento na base de dados
+  - Selecionar as colunas de treino para o modelo
+  - Treinar 2 modelos
+  - Verificar o melhor modelo
+  - Verificar quais as características mais importantes para definir o score do cliente
