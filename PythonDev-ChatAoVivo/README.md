@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desenvolvendo uma inteligência artificial para contabilizar parâmetros de scores de clientes em um banco bancário.
+Desenvolvendo um site web de um chat ao vivo.
 
 ### Informações
 - Passo a passo do projeto:
